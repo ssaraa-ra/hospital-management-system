@@ -49,9 +49,9 @@ In the project directory, create a file named config.py and add the following co
 password = '<user_authentication_password>'  # User login password (e.g., '1234')
 database_name = '<current_database_name>'  # Name of your database (e.g., 'database_1A')
 edit_mode_password = '<edit_mode_password>'  # Password for edit mode (e.g., 'allow_edit')
-Replace the placeholders (<user_authentication_password>, <current_database_name>, etc.) with your actual values.
 
 ```
+Replace the placeholders (<user_authentication_password>, <current_database_name>, etc.) with your actual values.
 
 4. Run the Application
 Once you've completed the configuration, navigate to the project directory in your terminal and run the following command to launch the application:
