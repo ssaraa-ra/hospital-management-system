@@ -53,7 +53,7 @@ edit_mode_password = '<edit_mode_password>'  # Password for edit mode (e.g., 'al
 ```
 Replace the placeholders (<user_authentication_password>, <current_database_name>, etc.) with your actual values.
 
-4. Run the Application
+### 4. Run the Application
 Once you've completed the configuration, navigate to the project directory in your terminal and run the following command to launch the application:
 
 ```bash
